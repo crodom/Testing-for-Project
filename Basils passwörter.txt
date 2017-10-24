@@ -1,2 +1,3 @@
 Amazon:	Passwort123
 Ebay:	Passwortwort
+Uni:	Passwort1
